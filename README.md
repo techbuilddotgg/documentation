@@ -10,3 +10,4 @@ Here are the available documents:
 - Use Case Diagram
 - Architecture Definition
 - User Manual
+- Project Branching Strategy
