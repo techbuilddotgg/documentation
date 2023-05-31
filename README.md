@@ -11,6 +11,9 @@ Here are the available documents:
 - Architecture Definition
 - User Manual
 - Project Branching Strategy
+- AI arhitecture
+- App arhitecture
+- Report on Work Done
 
 ## Video Demonstration
 Here is a link to app demo: https://tinyurl.com/company-hub-demo
